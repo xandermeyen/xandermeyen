@@ -1,6 +1,6 @@
 # Hi, I'm Xander 👋
 
-### Junior Software Developer — Thomas More (Graduaat Programmeren)
+### Junior Software Developer Thomas More (Graduaat Programmeren)
 
 I’m a motivated developer focusing on:
 - **Web development** (HTML, CSS, JavaScript, Bootstrap)
