@@ -68,7 +68,9 @@ A full-stack web app to manage my airsoft gear, built end to end instead of foll
 
 ### 🔐 Bureau X (Online Escape Room)
 
-A browser-based escape room platform built in TypeScript, and a real business I run. The first experience, Kamer 14, is a two-player mystery about the Geel family foster care tradition. The focus is on atmosphere, storytelling and puzzle design, and the platform is set up to host more rooms.
+A browser-based escape room platform built in TypeScript, and a real business I run. Players join from their own screens and play together in real time, with 2 to 4 players per game. There are two experiences live: **Kamer 14**, a mystery about the Geel family foster care tradition, and **D.U.A.**
+
+Under the hood it runs on Vite and Firebase (Realtime Database, Auth and App Check). Bookings are handled automatically through Formspree and Make.com, and every push goes through CI with tests and Dependabot.
 
 [![Live](https://img.shields.io/badge/Live%20Site-bureau--x.be-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bureau-x.be)
 [![Repo](https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandermeyen/Escape-room)
