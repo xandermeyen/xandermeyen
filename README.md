@@ -75,6 +75,10 @@ Under the hood it runs on Vite and Firebase (Realtime Database, Auth and App Che
 [![Live](https://img.shields.io/badge/Live%20Site-bureau--x.be-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bureau-x.be)
 [![Repo](https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandermeyen/Escape-room)
 
+### 🧠 Recall (AI Study Assistant)
+
+A study tool I built for myself that turns notes and PDFs into flashcards and quizzes with Google Gemini. Reviews are scheduled with the SM-2 spaced-repetition algorithm, and an exam mode makes sure no card is scheduled past your test date. Includes an open practice mode, AI explanations for wrong answers, mastery tracking and JSON import/export to share topics with classmates. Built with React, Express and SQLite.
+
 ### 🏰 Tower Defence (C++)
 
 A wave-based tower defense game built for the GamePlayScripting course. Defend a central tower against endless waves, pick upgrades after every wave (damage, range, attack speed, repair, ricochet) and face a boss every 5th wave. The project that taught me the most about game architecture and gameplay logic.
