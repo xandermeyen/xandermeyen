@@ -1,25 +1,23 @@
-<div align="center">
-
 # Hi, I'm Xander 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Junior+Software+Developer;Studying+Graduaat+Programmeren+%40+Thomas+More;Building+clean%2C+functional+software)](https://xandermeyen.be)
+<a href="https://xandermeyen.be">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=.NET+%26+Blazor+Developer+in+training;Studying+Graduaat+Programmeren+%40+Thomas+More;Building+clean%2C+functional+software" alt="Typing SVG" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-xandermeyen.be-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xandermeyen.be)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xander%20Meyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xander-meyen-683845220/)
-[![GitHub](https://img.shields.io/badge/GitHub-xandermeyen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandermeyen)
-
-</div>
+<p>
+  <a href="https://xandermeyen.be"><img src="https://img.shields.io/badge/Portfolio-xandermeyen.be-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/xander-meyen-683845220/"><img src="https://img.shields.io/badge/LinkedIn-Xander%20Meyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
 ## About Me
 
-I'm a programming student who likes building things that are clean, functional and well structured. Most of my work right now comes from school projects and personal experiments, and I use both to get better at writing code I'm actually proud of. I enjoy picking up new technologies and turning what I learn into real, working projects.
+I'm a second-year programming student at Thomas More Geel with a focus on full-stack development in .NET. I learn best by building real things: school projects, personal tools and a small business of my own. That last one is Bureau X, an online escape room platform I designed, built and run myself.
 
-- 🎓 Studying Graduaat Programmeren at Thomas More 🇧🇪
-- 🌱 Currently sharpening my skills in web development, software fundamentals and databases
-- 🌐 Portfolio: [xandermeyen.be](https://xandermeyen.be)
-- 💬 Always open to learning, feedback and new ideas
+- 🎓 Graduaat Programmeren at Thomas More Geel 🇧🇪
+- 🛠️ Main stack: C#, .NET, Blazor, EF Core and SQL Server
+- 🔐 Founder of [Bureau X](https://bureau-x.be), browser-based escape rooms
 
 ---
 
@@ -27,9 +25,10 @@ I'm a programming student who likes building things that are clean, functional a
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,7 +36,10 @@ I'm a programming student who likes building things that are clean, functional a
 **Frameworks & Libraries**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 **Databases**
 
@@ -58,47 +60,40 @@ I'm a programming student who likes building things that are clean, functional a
 
 ## Featured Projects
 
-### 🏰 Tower Defence (C++)
+### 🎯 Airsoft Equipment Tracker (Blazor + .NET)
 
-A wave-based tower defense game built for the GamePlayScripting course. You defend a central tower against endless waves of enemies, choose upgrades after every wave (damage, range, attack speed, repair, ricochet) and face a boss every 5th wave. It's the project I learned the most from when it comes to game architecture and gameplay logic.
+A full-stack web app to manage my airsoft gear, built end to end instead of following tutorials. Dashboard with totals and per-category breakdown, full CRUD with foreign-key relations, a service layer on top of EF Core with `IDbContextFactory`, and SQL Server running in Docker. Includes a separate test project.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandermeyen/DAE-Tower_Defence)
+[![Repo](https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandermeyen/AirsoftEquipmentTracker)
 
 ### 🔐 Bureau X (Online Escape Room)
 
-A browser-based escape room platform built as a digital alternative to physical escape rooms. The focus is on atmosphere, storytelling and puzzle design, all running directly in the browser. The first experience is live and the platform is set up to host more in the future.
+A browser-based escape room platform built in TypeScript, and a real business I run. The first experience, Kamer 14, is a two-player mystery about the Geel family foster care tradition. The focus is on atmosphere, storytelling and puzzle design, and the platform is set up to host more rooms.
 
 [![Live](https://img.shields.io/badge/Live%20Site-bureau--x.be-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bureau-x.be)
 [![Repo](https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandermeyen/Escape-room)
+
+### 🏰 Tower Defence (C++)
+
+A wave-based tower defense game built for the GamePlayScripting course. Defend a central tower against endless waves, pick upgrades after every wave (damage, range, attack speed, repair, ricochet) and face a boss every 5th wave. The project that taught me the most about game architecture and gameplay logic.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandermeyen/DAE-Tower_Defence)
 
 ### 💼 Portfolio Website
 
 A responsive portfolio built with HTML, CSS and Bootstrap that brings my projects, skills and contact info together in one place.
 
+[![Live](https://img.shields.io/badge/Live%20Site-xandermeyen.be-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xandermeyen.be)
 [![Repo](https://img.shields.io/badge/View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xandermeyen/portfolio)
 
 ---
 
 ## What I'm Working On
 
-- Improving my web development and front-end skills
-- Building new software and database projects for school
-- Growing my portfolio with clean, professional code
+- Extending the Airsoft Equipment Tracker with validation, search and item images
+- Building a 2D top-down survival shooter in Unity (waves, shop and power-ups) for school
+- Growing Bureau X with new escape room experiences
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Xander's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandermeyen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xandermeyen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-<div align="center">
-<sub>Learning to build clean and functional software, one project at a time.</sub>
-</div>
+Want to talk about a project? Reach out on [LinkedIn](https://www.linkedin.com/in/xander-meyen-683845220/) or via [xandermeyen.be](https://xandermeyen.be).
